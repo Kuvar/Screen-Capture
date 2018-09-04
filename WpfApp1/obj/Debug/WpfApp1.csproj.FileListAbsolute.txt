@@ -1,0 +1,15 @@
+C:\Users\KUVAR\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\KUVAR\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\KUVAR\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\KUVAR\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\KUVAR\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\KUVAR\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\KUVAR\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\KUVAR\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\KUVAR\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\KUVAR\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\KUVAR\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\KUVAR\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\KUVAR\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\KUVAR\source\repos\WpfApp1\WpfApp1\bin\Debug\Xceed.Words.NET.dll
+C:\Users\KUVAR\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
